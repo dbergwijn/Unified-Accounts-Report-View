@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><?plugin nl.beinformed.bi.casemanagement_19.2.9.202102121011?><case>
+    <label>UAV case</label>
+    <permissions/>
+    <default-allowed>true</default-allowed>
+    <functional-id>UAVCase</functional-id>
+</case>
