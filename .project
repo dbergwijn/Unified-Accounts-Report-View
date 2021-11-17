@@ -3,6 +3,34 @@
 	<name>Unified Accounts Report View</name>
 	<comment></comment>
 	<projects>
+		<project>Aanvraag</project>
+		<project>Authenticatie IDP</project>
+		<project>Automatische uitwisseling</project>
+		<project>BIS Meldingenadministratie</project>
+		<project>Beheer</project>
+		<project>Bibliotheek</project>
+		<project>Bibliotheek PFGU</project>
+		<project>Country by Country reporting</project>
+		<project>EOIR</project>
+		<project>ESR</project>
+		<project>Financiele gegevens oplevering</project>
+		<project>Financiele rekening informatie</project>
+		<project>Gebruikersbeheer</project>
+		<project>Gegevensonderhoud</project>
+		<project>Inlezen contragegevens</project>
+		<project>Memorandum of Understanding</project>
+		<project>Migration</project>
+		<project>No or only nominal tax jurisdictions</project>
+		<project>Notificaties</project>
+		<project>Ontwerp</project>
+		<project>Portaal AEOI</project>
+		<project>Portaal AEOI ActiveDirectory</project>
+		<project>Portaal AEOI Audit</project>
+		<project>Reporting entity</project>
+		<project>SSRS Reports</project>
+		<project>_CONTINUOUS_DELIVERY</project>
+		<project>com.bearingpoint.camel</project>
+		<project>nl.beinformed.bi.layout.general</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
